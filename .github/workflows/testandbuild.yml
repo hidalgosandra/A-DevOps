@@ -28,7 +28,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run tests
-        run: pytest test
+        run: pytest test.py
 
       # - Docker build & test -
       - name: Login to GitHub Container Registry
