@@ -10,4 +10,4 @@ if __name__ == "__main__":
 class Kalkulagailua:
     def batu(self, a: int, b: int) -> int:
         return a + b
- 
+    
