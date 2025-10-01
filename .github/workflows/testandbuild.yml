@@ -1,3 +1,6 @@
+permissions:
+  contents: read
+  packages: write # Gehitu baimen hau
 name: Python Test Workflow
 on:
   push:
